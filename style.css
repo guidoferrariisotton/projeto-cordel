@@ -85,6 +85,7 @@ section#imagem1{
 
 section#imagem2{
     background-image: url('background002.jpg');
+    background-size: 100%;
 }
 
 footer{
